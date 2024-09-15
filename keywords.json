@@ -1,0 +1,10 @@
+
+{
+    "comment" : "添加关键字请在keywords下写keyword",
+    "keywords":[
+        {"keyword" : "猫娘"},
+        {"keyword" : "English"},
+        {"keyword" : "语言"},
+        {"keyword" : "gpt"}
+    ]
+}
