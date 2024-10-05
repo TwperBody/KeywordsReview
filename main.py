@@ -5,7 +5,7 @@ import json
 
 message_string = ""
 
-file_path = 'plugins/keywordsReview/keywords.json'
+file_path = 'plugins/KeywordsReview/keywords.json'
 
 # 注册插件
 @register(name="Keyword_active_review", description="关键词主动审查", version="1.0", author="TwperBody")
